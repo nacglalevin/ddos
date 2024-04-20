@@ -34,7 +34,7 @@ text="""
  DDos python script | Script used for testing ddos | Ddos attack     
  Author: Lalevin Martin
  Mailbox: zzlyxht@outlook.com                                                
- Github: http://github.com/su-57g                            
+ Github: http://github.com/nacglalevin                          
  Version:2.5
 ==================================NACG===================================
 """
