@@ -29,13 +29,15 @@ bytes = random._urandom(1490)
 
 os.system("clear")
 os.system("figlet DDos Attack")
+text="""
+_____  _____   ____   _____
+|  __ \|  __ \ / __ \ / ____|
+| |  | | |  | | |  | | (___
+| |  | | |  | | |  | |\___ \
+| |__| | |__| | |__| |____) |
+|_____/|_____/ \____/|_____/
 print (" ")
-print ("/---------------------------------------------------\ ")
-print ("|  Author         :Lalevin Martin                       |")
-print ("|  Author Github    : https://github.com/nacglalevin    ⼁")
-print ("|  Mailbox       :zzlyxht@outlook.com                   |")
-print ("|  Edition       : V2.05.0                              |")
-print ("\---------------------------------------------------/")
+print(text)                          
 print (" ")
 print (" -----------------[Do not use for illegal purposes]----------------- ")
 print (" ")
