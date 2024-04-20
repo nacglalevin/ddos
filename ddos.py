@@ -32,7 +32,7 @@ os.system("figlet DDos Attack")
 text="""
 =========================================================================                                                                 
  DDos python script | Script used for testing ddos | Ddos attack     
- Author: Lalevin
+ Author: Lalevin Martin
  Mailbox: zzlyxht@outlook.com                                                
  Github: http://github.com/su-57g                            
  Version:2.5
