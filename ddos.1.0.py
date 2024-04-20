@@ -2,7 +2,7 @@
 ========================================
 Name:DDos   Author: Lalevin Martin
  Mailbox: zzlyxht@outlook.com                                                
- Github: http://github.com/su-57g  
+ Github: http://github.com/nacglalevin 
 Written in 2023-5-3
 ==================NACG==================
 """
