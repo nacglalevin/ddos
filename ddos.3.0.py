@@ -2,7 +2,7 @@
 ========================================
 Name:DDos.3.0  Author: Lalevin Martin
  Mailbox: zzlyxht@outlook.com                                                
- Github: http://github.com/su-57g  
+ Github: http://github.com/nacglalevin
 Written in 2024-3-27
 ==================NACG==================
 """
@@ -20,7 +20,7 @@ title = '''
  DDos python script | Script used for testing ddos | Ddos attack     
  Author: Lalevin
  Mailbox: zzlyxht@outlook.com                                                
- Github: http://github.com/su-57g                            
+ Github: http://github.com/nacglalevin                           
  Version:'''+version+''' 
 ==================================NACG===================================
 '''
