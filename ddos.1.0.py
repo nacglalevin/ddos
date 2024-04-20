@@ -7,6 +7,8 @@ Written in 2023-5-3
 ==================NACG==================
 """
 import socket
+import os
+os.system("clear")
 
 target_addr = ('192.168.1.1', 80)
 
