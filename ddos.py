@@ -28,7 +28,7 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet DDos NACG")
+os.system("figlet DDOS NACG")
 text="""
 =========================================================================                                                                 
  DDos python script | Script used for testing ddos | Ddos attack     
