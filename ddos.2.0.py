@@ -1,5 +1,5 @@
 """
-==========================================
+========================================
 Name:DDos.2.0  Author: Lalevin Martin
  Mailbox: zzlyxht@outlook.com                                                
  Github: http://github.com/su-57g  
