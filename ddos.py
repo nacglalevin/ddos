@@ -30,12 +30,7 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDos Attack")
 text="""
-_____  _____   ____   _____
-|  __ \|  __ \ / __ \ / ____|
-| |  | | |  | | |  | | (___
-| |  | | |  | | |  | |\___ \
-| |__| | |__| | |__| |____) |
-|_____/|_____/ \____/|_____/
+
 """
 print (" ")
 print(text)                          
