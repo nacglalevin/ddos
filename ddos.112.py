@@ -354,9 +354,9 @@ class Synflood(Thread):
 
 def main():
         parser = ArgumentParser(
-        usage='./%(prog)s -t [target] -p [port] -t [number threads]',
+        usage='(prog)s -t [target] -p [port] -t [number threads]',
         formatter_class=RawTextHelpFormatter,
-        prog='pyddos',
+        prog='nddos',
         description=cprint(title,'white',attrs=['bold']),
         epilog='''
 Example:
