@@ -9,15 +9,7 @@ Written in 2023-5-3
 import socket
 import os
 os.system("clear")
-text="""
-_____  _____   ____   _____
-|  __ \|  __ \ / __ \ / ____|
-| |  | | |  | | |  | | (___
-| |  | | |  | | |  | |\___ \
-| |__| | |__| | |__| |____) |
-|_____/|_____/ \____/|_____/
-"""
-print(text)
+os.system("figlet DDOS NACG")
 
 target_addr = ('ip', 80)
 ip = input("请输入 IP     : ")
