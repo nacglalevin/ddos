@@ -6,8 +6,6 @@ Name:DDos.3.0  Author: Lalevin Martin
 Written in 2024-3-27
 ==================NACG==================
 """
-#!/usr/bin/env python3
-
 version= '3.0'
 title = '''
 
