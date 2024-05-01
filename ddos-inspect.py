@@ -1,6 +1,6 @@
 """
 ========================================
-Name:DDos   Author: Lalevin Martin
+Name:DDos-inspect   Author: Lalevin Martin
  Mailbox: zzlyxht@outlook.com                                                
  Github: http://github.com/nacglalevin 
 Written in 2024-5-1
