@@ -1,3 +1,11 @@
+"""
+========================================
+Name:DDos   Author: Lalevin Martin
+ Mailbox: zzlyxht@outlook.com                                                
+ Github: http://github.com/nacglalevin 
+Written in 2024-5-1
+==================NACG==================
+"""
 import dpkt
 import sys
 from socket import *
