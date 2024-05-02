@@ -1,3 +1,11 @@
+"""
+========================================
+Name:DDos.4.0 Author: Lalevin Martin
+ Mailbox: zzlyxht@outlook.com                                                
+ Github: http://github.com/nacglalevin
+Written in 2024-5-1
+==================NACG==================
+"""
 #!/usr/bin/env python
 from scapy.all import *
 import sys
