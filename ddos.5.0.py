@@ -1,3 +1,11 @@
+"""
+========================================
+Name:DDos.5.0 Author: Lalevin Martin
+ Mailbox: zzlyxht@outlook.com                                                
+ Github: http://github.com/nacglalevin
+Written in 2024-5-2
+==================NACG==================
+"""
 if __name__ == '__main__':
     import socket
     import time
