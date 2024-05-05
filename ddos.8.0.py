@@ -53,8 +53,8 @@ def referer_list():
 
 def handler(signum,_):
         if signum == signal.SIGALRM:
-                print "Time is up !"
-                print "Attack finished !"
+                print ("Time is up !")
+                print ("Attack finished !")
         sys.exit()
 
 #builds random ascii string
