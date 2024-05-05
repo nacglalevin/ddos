@@ -23,7 +23,7 @@ def usage():
         -t : lasting time of ddos
         -c : numbers of thread to create'''
         print("ddos_py")
-sys.exit()
+        sys.exit()
 
 # generates a user agent array
 def useragent_list():
