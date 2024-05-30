@@ -38,9 +38,12 @@ text="""
 ==================================NACG===================================
 """
 print (" ")
-print(text)                          
+print("\033[5;32m%s\033[0m" % text)                   
 print (" ")
-print (" -----------------[Do not use for illegal purposes]----------------- ")
+tpx="""
+-----------------[Do not use for illegal purposes]-----------------
+"""
+print("\033[5;31m%s\033[0m" % tpx) 
 print (" ")
 ip = input("请输入 IP     : ")
 port = int(input("攻击端口      : "))
