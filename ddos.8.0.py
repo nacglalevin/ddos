@@ -27,6 +27,7 @@ text="""
  Version:ddos.8.0
 ==================================NACG===================================
 """
+print("text")
 def usage():
         ddos_py= ''' usage : python ddos.8.0.py [-t] [-c] http://www.baidu.com/
         -h : help
