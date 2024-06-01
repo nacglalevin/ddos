@@ -17,6 +17,16 @@ import random
 import urllib2
 import threading
 
+os.system("clear")
+os.system("figlet DDOS NACG")
+text="""
+=========================================================================                                                                   
+ Author: Lalevin Martin
+ Mailbox: zzlyxht@outlook.com                                                
+ Github: http://github.com/nacglalevin                          
+ Version:ddos.8.0
+==================================NACG===================================
+"""
 def usage():
         ddos_py= ''' usage : python ddos.8.0.py [-t] [-c] http://www.baidu.com/
         -h : help
