@@ -153,4 +153,4 @@ if __name__ == '__main__':
 #                        print ("Child process",os.getpid(),newpid)
         time.sleep(int(interval))
         signal.alarm(0)
-        print "main thread exit..."
+        print("main thread exit...")
