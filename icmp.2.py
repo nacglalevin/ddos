@@ -17,7 +17,7 @@ class IFD():
           | | |___| |  | |  __/  | |_| | |_| |___) |     --appoint send package number(recommend even):
          |___\____|_|  |_|_|     |____/ \___/|____/               -o >> -o[number]
             -------------------------------
-            version: v_1.1 developer: hare
+            version: v_2.0 author:Lalevin Martin
             -------------------------------
         """
         return log
