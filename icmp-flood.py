@@ -4,7 +4,7 @@ from ipaddress import ip_network
 
 def create_ip():
     from random import choice  
- ip_pool = []
+    ip_pool = []
     for ip in ip_network("192.168.2.0/24"):
         ip_pool.append(ip)
     return str(random.choice(ip_pool))
