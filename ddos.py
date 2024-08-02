@@ -30,18 +30,18 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDOS NACG")
 text="""
-=========================================================================                                                                   
- Author: Lalevin Martin
+========================================
+Name:DDos.2.5  Author: Lalevin Martin
  Mailbox: zzlyxht@outlook.com                                                
- Github: http://github.com/nacglalevin                          
- Version:2.5
-==================================NACG===================================
+ Github: http://github.com/nacglalevin
+Written in 2023-12-17
+==================NACG==================
 """
 print (" ")
 print("\033[5;31m%s\033[0m" % text)                   
 print (" ")
 tpx="""
------------------[Do not use for illegal purposes]-----------------
+-----------------[Do not use for illegal purposes]----------------
 """
 print("\033[5;31m%s\033[0m" % tpx) 
 print (" ")
