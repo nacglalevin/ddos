@@ -1,3 +1,4 @@
+# beloved/DHS
 import time,sys,socket,threading,logging,urllib.request,random
 
 class Hammer(object):
