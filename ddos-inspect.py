@@ -2,7 +2,7 @@
 """
 ========================================
 Name:DDos-inspect   Author: Lalevin Martin
- Mailbox: zzlyxht@outlook.com                                                
+ Mailbox: rsjdcl@gmail.com                                              
  Github: http://github.com/nacglalevin 
 Written in 2024-5-1
 ==================NACG==================
