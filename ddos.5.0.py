@@ -2,7 +2,7 @@
 """
 ========================================
 Name:DDos.5.0 Author: Lalevin Martin
- Mailbox: zzlyxht@outlook.com                                                
+ Mailbox: rsjdcl@outlook.com                                                
  Github: http://github.com/nacglalevin
 Written in 2024-5-2
 ==================NACG==================
